@@ -41,8 +41,8 @@
     },
     "lora_downloads": {
         "Yorha 2B.safetensors": "https://civitai.com/api/download/models/654190?type=Model&format=SafeTensor",
-        "Deepthroat_pony_V1.0.safetensors": "https://civitai.com/api/download/models/814770?type=Model&format=SafeTensor",
-        "ReverseCowgirl_V1.0.safetensors": "https://civitai.com/api/download/models/1015252?type=Model&format=SafeTensor"
+        "Deepthroat_pony_V1.0.safetensors": "https://civitai.com/api/download/models/814770?type=Model&format=SafeTensor&token=5ef154bd2c9b2287680927c3dcefd9bd",
+        "ReverseCowgirl_V1.0.safetensors": "https://civitai.com/api/download/models/1015252?type=Model&format=SafeTensor&token=5ef154bd2c9b2287680927c3dcefd9bd"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
