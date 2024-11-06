@@ -5,37 +5,37 @@
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
     "default_loras": [
         [
-            true,
+            false,
             "Vanilla Nekopara",
             1.0
         ],
         [
-            true,
+            false,
             "Krul Tepes",
             1.0
         ],
         [
-            true,
+            false,
             "Ruka Sarashina",
             1.0
         ],
         [
-            true,
+            false,
             "Zero Two",
             1.0
         ],
         [
-            true,
+            false,
             "Shiro",
             1.0
         ],
         [
-            true,
+            false,
             "Senko",
             1.0
         ],
         [
-            true,
+            false,
             "Raphtalia",
             1.0
         ]
