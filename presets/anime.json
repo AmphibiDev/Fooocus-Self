@@ -5,37 +5,37 @@
     "default_loras": [
         [
             false,
-            "Vanilla Nekopara",
+            "Vanilla Nekopara.safetensors",
             1.0
         ],
         [
             false,
-            "Krul Tepes",
+            "Krul Tepes.safetensors",
             1.0
         ],
         [
             false,
-            "Ruka Sarashina",
+            "Ruka Sarashina.safetensors",
             1.0
         ],
         [
             false,
-            "Zero Two",
+            "Zero Two.safetensors",
             1.0
         ],
         [
             false,
-            "Shiro",
+            "Shiro.safetensors",
             1.0
         ],
         [
             false,
-            "Senko",
+            "Senko.safetensors",
             1.0
         ],
         [
             false,
-            "Raphtalia",
+            "Raphtalia.safetensors",
             1.0
         ]
     ],
@@ -58,13 +58,13 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Vanilla Nekopara": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
-        "Krul Tepes": "https://civitai.com/api/download/models/15674?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "Ruka Sarashina": "https://civitai.com/api/download/models/152877?type=Model&format=SafeTensor",
-        "Zero Two": "https://civitai.com/api/download/models/13009?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "Shiro": "https://civitai.com/api/download/models/20880?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "Senko": "https://civitai.com/api/download/models/49874?type=Model&format=SafeTensor",
-        "Raphtalia": "https://civitai.com/api/download/models/18822?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "Vanilla Nekopara.safetensors": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
+        "Krul Tepes.safetensors": "https://civitai.com/api/download/models/15674?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Ruka Sarashina.safetensors": "https://civitai.com/api/download/models/152877?type=Model&format=SafeTensor",
+        "Zero Two.safetensors": "https://civitai.com/api/download/models/13009?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Shiro.safetensors": "https://civitai.com/api/download/models/20880?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Senko.safetensors": "https://civitai.com/api/download/models/49874?type=Model&format=SafeTensor",
+        "Raphtalia.safetensors": "https://civitai.com/api/download/models/18822?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "previous_default_models": [
         "animaPencilXL_v400.safetensors",
