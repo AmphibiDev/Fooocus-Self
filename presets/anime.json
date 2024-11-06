@@ -56,7 +56,9 @@
     "checkpoint_downloads": {
         "animaPencilXL_v500.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v500.safetensors"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "easynegative.safetensors", "https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16"
+    },
     "lora_downloads": {
         "Vanilla Nekopara.safetensors": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
         "Krul Tepes.safetensors": "https://civitai.com/api/download/models/15674?type=Model&format=SafeTensor&size=full&fp=fp16",
