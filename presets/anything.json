@@ -55,7 +55,7 @@
         "AnythingXL_v50.safetensors": "https://civitai.com/api/download/models/30163?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {
-        "easynegative.safetensors", "https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "easynegative.safetensors": "https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "lora_downloads": {
         "Vanilla Nekopara.safetensors": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
