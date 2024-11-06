@@ -60,7 +60,7 @@
     "lora_downloads": {
         "super-vanilla-newlora-ver1-p.safetensors": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
         "Krul Tepes.safetensors": "https://civitai.com/api/download/models/15674?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "RukaSarashina-10.safetensors": "https://civitai.com/api/download/models/152877?type=Model&format=SafeTensor"
+        "RukaSarashina-10.safetensors": "https://civitai.com/api/download/models/152877?type=Model&format=SafeTensor",
         "zerotwo_offset.safetensors": "https://civitai.com/api/download/models/13009?type=Model&format=SafeTensor&size=full&fp=fp16",
         "ShiroNGNL2_Lora.safetensors": "https://civitai.com/api/download/models/20880?type=Model&format=SafeTensor&size=full&fp=fp16",
         "senkoLora_v4.safetensors": "https://civitai.com/api/download/models/49874?type=Model&format=SafeTensor",
