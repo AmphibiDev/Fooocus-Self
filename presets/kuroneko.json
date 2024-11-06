@@ -63,7 +63,9 @@
         "Zero Two.safetensors": "https://civitai.com/api/download/models/13009?type=Model&format=SafeTensor&size=full&fp=fp16",
         "Shiro.safetensors": "https://civitai.com/api/download/models/20880?type=Model&format=SafeTensor&size=full&fp=fp16",
         "Senko.safetensors": "https://civitai.com/api/download/models/49874?type=Model&format=SafeTensor",
-        "Raphtalia.safetensors": "https://civitai.com/api/download/models/18822?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "Raphtalia.safetensors": "https://civitai.com/api/download/models/18822?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Deepthroat_pony_V1.0.safetensors": "https://civitai.com/api/download/models/814770?type=Model&format=SafeTensor",
+        "ReverseCowgirl_V1.0.safetensors": "https://civitai.com/api/download/models/1015252?type=Model&format=SafeTensor"
     },
     "vae_downloads": {}
 }
