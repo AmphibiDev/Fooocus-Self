@@ -4,28 +4,38 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            true,
-            "None",
+            false,
+            "super-vanilla-newlora-ver1-p.safetensors",
             1.0
         ],
         [
-            true,
-            "None",
+            false,
+            "Krul Tepes.safetensors",
             1.0
         ],
         [
-            true,
-            "None",
+            false,
+            "RukaSarashina-10.safetensors",
             1.0
         ],
         [
-            true,
-            "None",
+            false,
+            "zerotwo_offset.safetensors",
             1.0
         ],
         [
-            true,
-            "None",
+            false,
+            "ShiroNGNL2_Lora.safetensors",
+            1.0
+        ],
+        [
+            false,
+            "senkoLora_v4.safetensors",
+            1.0
+        ],
+        [
+            false,
+            "RaphtaliaLora.safetensors",
             1.0
         ]
     ],
