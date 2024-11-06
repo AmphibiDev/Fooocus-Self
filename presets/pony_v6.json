@@ -6,27 +6,37 @@
     "default_loras": [
         [
             true,
-            "None",
+            "Vanilla Nekopara",
             1.0
         ],
         [
             true,
-            "None",
+            "Krul Tepes",
             1.0
         ],
         [
             true,
-            "None",
+            "Ruka Sarashina",
             1.0
         ],
         [
             true,
-            "None",
+            "Zero Two",
             1.0
         ],
         [
             true,
-            "None",
+            "Shiro",
+            1.0
+        ],
+        [
+            true,
+            "Senko",
+            1.0
+        ],
+        [
+            true,
+            "Raphtalia",
             1.0
         ]
     ],
@@ -47,7 +57,15 @@
         "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "Vanilla Nekopara": "https://civitai.com/api/download/models/173428?type=Model&format=SafeTensor",
+        "Krul Tepes": "https://civitai.com/api/download/models/15674?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Ruka Sarashina": "https://civitai.com/api/download/models/152877?type=Model&format=SafeTensor",
+        "Zero Two": "https://civitai.com/api/download/models/13009?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Shiro": "https://civitai.com/api/download/models/20880?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "Senko": "https://civitai.com/api/download/models/49874?type=Model&format=SafeTensor",
+        "Raphtalia": "https://civitai.com/api/download/models/18822?type=Model&format=SafeTensor&size=full&fp=fp16"
+    },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }
