@@ -22,6 +22,11 @@
             false,
             "ReverseCowgirl_V1.0.safetensors",
             1.0
+        ],
+        [
+            false,
+            "Minthara (BG3).safetensors",
+            1.0
         ]
     ],
     "default_cfg_scale": 7.0,
@@ -44,6 +49,7 @@
         "easynegative.safetensors": "https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "lora_downloads": {
+        "Minthara (BG3).safetensors": "https://civitai.com/api/download/models/1058275?type=Model&format=SafeTensor&token=5ef154bd2c9b2287680927c3dcefd9bd",
         "Yorha 2B.safetensors": "https://civitai.com/api/download/models/654190?type=Model&format=SafeTensor&token=5ef154bd2c9b2287680927c3dcefd9bd",
         "Frieren.safetensors": "https://civitai.com/api/download/models/510984?type=Model&format=SafeTensor",
         "Persephone.safetensors": "https://civitai.com/api/download/models/847437?type=Model&format=SafeTensor&token=5ef154bd2c9b2287680927c3dcefd9bd",
